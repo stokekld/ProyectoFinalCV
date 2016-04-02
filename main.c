@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-* Esta es la version 1.0 de la rama
-* alfa, se completo los requerimientos
+* Esta es la version 1.1 con el modulo D,
+* se completo los requerimientos
 */
 main()
 {
