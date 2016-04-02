@@ -3,5 +3,8 @@
 main()
 {
  
-    print("Hola Soy Carlos");
+	print("Hola Soy Carlos");
+
+	printf("Este es mi printf: Jesus");
+
 }
