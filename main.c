@@ -8,4 +8,6 @@ main()
 	printf("Este es mi printf: Jesus");
 
 	printf("Roberto Guerrero Zurita");
+
+	printf("Rodrigo Galeano Torres");
 }
